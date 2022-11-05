@@ -22,7 +22,7 @@ function date(){
 
     const dateBD = document.getElementById('dateBD')
     const divlock = document.getElementById('lock')
-    var musica = new Audio('music/10convert.com_amigo hoje é o seu aniversário_WyUaUdTpXhE.mp3')
+    var musica = new Audio('10convert.com_amigo hoje é o seu aniversário_WyUaUdTpXhE.mp3')
     const confete = document.querySelector('.foto')
     console.log(musica)
     
